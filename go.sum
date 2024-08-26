@@ -7,4 +7,6 @@ github.com/google/docsy v0.10.1-0.20240528200232-6549143cf323 h1:T4UiGpcrIgiuyQj
 github.com/google/docsy v0.10.1-0.20240528200232-6549143cf323/go.mod h1:c0nIAqmRTOuJ01F85U/wJPQtc3Zj9N58Kea9bOT2AJc=
 github.com/google/docsy v0.10.1-0.20240529105443-333c2f8d4172 h1:1gAAuOfHRok/hJqfF+wpjOYqlH0d76dwUsskLEnOzxo=
 github.com/google/docsy v0.10.1-0.20240529105443-333c2f8d4172/go.mod h1:c0nIAqmRTOuJ01F85U/wJPQtc3Zj9N58Kea9bOT2AJc=
+github.com/privatemaker/headless-cms v0.1.0 h1:BnxRpI1AFpMLyzKajEv/PZtxHSv4YYxt1OpDp/30x0c=
+github.com/privatemaker/headless-cms v0.1.0/go.mod h1:ZcHkPZzL9yCsBdmn9FpoIW35snTyj1bDOfqT0ZFJoZE=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
