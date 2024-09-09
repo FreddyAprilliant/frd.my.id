@@ -194,7 +194,7 @@ params:
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: GitHub
-        url: https://github.com/FreddyAprilliant
+        url: https://github.com/dhexnatheo
         icon: fab fa-github
         desc: Development takes place here!
       - name: LinkedIn
