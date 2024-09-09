@@ -1,0 +1,5 @@
+locale: en
+media_folder: static/uploads
+public_folder: /uploads
+search: true
+site_url: https://dhexnatheo.github.io/frd.my.id/
