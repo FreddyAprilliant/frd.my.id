@@ -1,4 +1,4 @@
-baseURL: "/frd.my.id"
+baseURL: "http://frd.my.id/"
 title: frd.my.id
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -80,7 +80,7 @@ markup:
     # guessSyntax: true
 
 # Everything below this are Site Params
-############
+
 # Comment out if you don't want the "print entire section" link enabled.
 outputs:
   home: [HTML, RSS, HeadlessCMSConfig]
