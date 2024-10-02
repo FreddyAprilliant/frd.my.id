@@ -1,4 +1,4 @@
-baseURL: "http://frd.my.id/frd.my.id/"
+baseURL: "https://frd.my.id"
 title: frd.my.id
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -94,7 +94,7 @@ outputs:
 #       weight: 20
 
 params:
-  homePageContent: "docs/_index.md"
+  # homePageContent: "docs/_index.md"
   taxonomy:
     # set taxonomyCloud = [] to hide taxonomy clouds
     taxonomyCloud: [tags, categories]
