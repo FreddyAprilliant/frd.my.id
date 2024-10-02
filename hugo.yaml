@@ -1,4 +1,4 @@
-baseURL: "http://frd.my.id/"
+baseURL: "/"
 title: frd.my.id
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
