@@ -3,6 +3,8 @@ title: frd.my.id
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
+canonifyURLs: true
+
 # Language settings
 contentDir: content/en
 defaultContentLanguage: en
